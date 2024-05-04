@@ -7,22 +7,18 @@ This repository contains JavaScript functions for mathematical operations and th
 To install this project, follow these steps:
 
 1. Clone the repository to your local machine:
-``
-git clone https://github.com/EllouzeKarim/TP1-Test-Logiciel
 
-``
+```git clone https://github.com/EllouzeKarim/TP1-Test-Logiciel```
 
 2. Navigate to the project directory:
 
-``
 
-cd TP1-Test-Logiciel
-``
+```cd TP1-Test-Logiciel```
 
 
 3. Install dependencies:
 
-``npm i ``
+```npm i```
 
 
 ## 2. Usage
