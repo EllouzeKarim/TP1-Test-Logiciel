@@ -72,3 +72,4 @@ Wrote a test using Vitest for the `fetchRandomUser()` function, ensuring asynchr
 
 - Run `npm test`. It will show code coverage in the terminal. You can change a test or source code to see HMR in action.
 
+<img width="1110" alt="Screenshot 2023-12-17 at 11 09 52 AM" src="https://github.com/EllouzeKarim/TP1-Test-Logiciel/blob/master/coffee.png">
