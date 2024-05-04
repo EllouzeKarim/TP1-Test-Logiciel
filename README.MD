@@ -69,7 +69,8 @@ Wrote test cases for the `isPriceInRange(price, min, max)` function, covering ra
 
 Wrote a test using Vitest for the `fetchRandomUser()` function, ensuring asynchronous waiting for the resolution of the promise returned by the function and verifying that the returned data is a JSON object containing information about the user.
 ## Exercice
-
+- `cd vitest-coffee-example`
+- Run `npm i`
 - Run `npm test`. It will show code coverage in the terminal. You can change a test or source code to see HMR in action.
 
 <img width="1110" alt="Screenshot 2023-12-17 at 11 09 52 AM" src="https://github.com/EllouzeKarim/TP1-Test-Logiciel/blob/master/coffee.png">
