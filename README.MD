@@ -31,14 +31,8 @@ A function `add` has been implemented in the `math.js` file to calculate the sum
 
 1. Created a folder named `test`.
 2. Inside the `test` folder, created a file named `math.test.js`.
-3. Installed Vitest and added the following scripts to the `package.json` file:
-```json
-"scripts": {
-  "dev": "vite",
-  "build": "vite build",
-  "preview": "vite preview",
-  "test": "vitest"
-} ```
+3. Installed Vitest and added the necessary scripts to the `package.json` file:
+
 4. Copied the provided code to test the add function.
 5. Execute the test using the command:
 ``npm run test ``
