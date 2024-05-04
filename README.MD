@@ -38,7 +38,7 @@ A function `add` has been implemented in the `math.js` file to calculate the sum
   "build": "vite build",
   "preview": "vite preview",
   "test": "vitest"
-}
+} ```
 4. Copied the provided code to test the add function.
 5. Execute the test using the command:
 ``npm run test ``
